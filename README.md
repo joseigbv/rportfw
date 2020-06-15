@@ -5,10 +5,10 @@ Remote port redirector by reverse connection with proxy support for Windows. Use
 ## Features
 
 * Reverse connection through proxy.
-* Remote multi port forwarding.
-* Basic auth.
+* Remote multi port forwarding through a single connection.
+* Basic authentication.
 * Encryption (optional, rc4).
-* Compression zlib (testing).
+* Compression (testing, zlib).
 * Automatic execution of command associated to port when connecting.
 * Includes starter tool loader.
 * Includes auto-install function at startup (--install).
